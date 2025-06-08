@@ -1,1 +1,1 @@
-trainig project
+training project
